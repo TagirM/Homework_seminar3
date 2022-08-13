@@ -1,0 +1,15 @@
+C:\Users\Admin\Desktop\Курс Знакомство с С# (Си Шарп)\Homework_seminar3\Zadacha_21\bin\Debug\net6.0\Zadacha_21.exe
+C:\Users\Admin\Desktop\Курс Знакомство с С# (Си Шарп)\Homework_seminar3\Zadacha_21\bin\Debug\net6.0\Zadacha_21.deps.json
+C:\Users\Admin\Desktop\Курс Знакомство с С# (Си Шарп)\Homework_seminar3\Zadacha_21\bin\Debug\net6.0\Zadacha_21.runtimeconfig.json
+C:\Users\Admin\Desktop\Курс Знакомство с С# (Си Шарп)\Homework_seminar3\Zadacha_21\bin\Debug\net6.0\Zadacha_21.dll
+C:\Users\Admin\Desktop\Курс Знакомство с С# (Си Шарп)\Homework_seminar3\Zadacha_21\bin\Debug\net6.0\Zadacha_21.pdb
+C:\Users\Admin\Desktop\Курс Знакомство с С# (Си Шарп)\Homework_seminar3\Zadacha_21\obj\Debug\net6.0\Zadacha_21.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Курс Знакомство с С# (Си Шарп)\Homework_seminar3\Zadacha_21\obj\Debug\net6.0\Zadacha_21.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\Курс Знакомство с С# (Си Шарп)\Homework_seminar3\Zadacha_21\obj\Debug\net6.0\Zadacha_21.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Курс Знакомство с С# (Си Шарп)\Homework_seminar3\Zadacha_21\obj\Debug\net6.0\Zadacha_21.AssemblyInfo.cs
+C:\Users\Admin\Desktop\Курс Знакомство с С# (Си Шарп)\Homework_seminar3\Zadacha_21\obj\Debug\net6.0\Zadacha_21.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Курс Знакомство с С# (Си Шарп)\Homework_seminar3\Zadacha_21\obj\Debug\net6.0\Zadacha_21.dll
+C:\Users\Admin\Desktop\Курс Знакомство с С# (Си Шарп)\Homework_seminar3\Zadacha_21\obj\Debug\net6.0\refint\Zadacha_21.dll
+C:\Users\Admin\Desktop\Курс Знакомство с С# (Си Шарп)\Homework_seminar3\Zadacha_21\obj\Debug\net6.0\Zadacha_21.pdb
+C:\Users\Admin\Desktop\Курс Знакомство с С# (Си Шарп)\Homework_seminar3\Zadacha_21\obj\Debug\net6.0\Zadacha_21.genruntimeconfig.cache
+C:\Users\Admin\Desktop\Курс Знакомство с С# (Си Шарп)\Homework_seminar3\Zadacha_21\obj\Debug\net6.0\ref\Zadacha_21.dll
